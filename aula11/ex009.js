@@ -1,4 +1,4 @@
-var semaforo = "vermelho"
+var semaforo = "amarelo"
 
 if (semaforo == "verde") {
     console.log("Pode passar")
