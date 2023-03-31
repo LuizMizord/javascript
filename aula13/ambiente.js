@@ -1,2 +1,5 @@
 var c = 1
-console.log(c)
+do {
+    console.log(`Passo ${c}`)
+    c++
+} while (c <= 1)
